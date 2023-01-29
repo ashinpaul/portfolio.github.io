@@ -488,7 +488,7 @@ table {
 	margin:0;
 	padding:0;
 	opacity:0.5;
-	color: #57c9e9;
+	color: #43bee0;
 	letter-spacing: 18px;
 	line-height: 50px;
 	text-transform: uppercase;
@@ -609,7 +609,7 @@ h1.arrow span {
 }
 .color-bg .weight-outline-btn:hover {
   background: #FFF;
-  color: #E04343;
+  color: #4eaff5;
   border-color: rgba(0, 0, 0, 0);
 }
 .about-text {
@@ -694,7 +694,7 @@ i.respons {
 }
 .fluid-white {
 	width:50%;
-	background:#fff;
+	background:#4eaff5;
 	float:right;
 	height:100%;
 	z-index:2;
