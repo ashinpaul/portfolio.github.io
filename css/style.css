@@ -694,7 +694,7 @@ i.respons {
 }
 .fluid-white {
 	width:50%;
-	background:#fff;
+	background:rgb(117, 180, 243);
 	float:right;
 	height:100%;
 	z-index:2;
