@@ -381,7 +381,7 @@ table {
 	right:0.5em;
 	bottom:0.5em;
 	left:0.5em;
-	background: linear-gradient(#E04343 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#E04343 40%,#E04343 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#E04343 80%);
+	background: linear-gradient(#56b7f3 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#000000 40%,#4cbfe9 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#50d8fa 80%);
 	content:'';
 }
 .menu-button:hover {
@@ -488,7 +488,7 @@ table {
 	margin:0;
 	padding:0;
 	opacity:0.5;
-	color: #E04343;
+	color: #57c9e9;
 	letter-spacing: 18px;
 	line-height: 50px;
 	text-transform: uppercase;
@@ -694,7 +694,7 @@ i.respons {
 }
 .fluid-white {
 	width:50%;
-	background:rgb(117, 180, 243);
+	background:#fff;
 	float:right;
 	height:100%;
 	z-index:2;
