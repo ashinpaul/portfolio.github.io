@@ -107,7 +107,7 @@ html {
 }
 html,html a {
 	-webkit-font-smoothing:antialiased;
-	text-shadow:1px 1px 1px rgba(0,0,0,0.004);
+	text-shadow:1px 1px 1px rgba(255, 255, 255, 0.004);
 }
 html,button,input,select,textarea {
 	font-family:'Varela Round',sans-serif;
