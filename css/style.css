@@ -37,7 +37,7 @@
 	Global Styles
 ========================================================================== */
 a {
-	color: #E04343;
+	color: #ffffff;
 	-webkit-transition:all 0.5s;
 	-moz-transition:all 0.5s;
 	-o-transition:all 0.5s;
@@ -882,7 +882,7 @@ img.grayscale:hover {
 }
 /* ==========================================================================CTA========================================================================== */
 .spacer-cta {
-	background-color: #E04343;
+	background-color: #53c6e6;
 	padding:70px 0;
 }
 .outline-btn {
