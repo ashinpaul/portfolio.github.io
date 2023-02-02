@@ -550,7 +550,7 @@ table {
 .scrollto {
 	padding: 150px 0px 0px 0px;
 	display:block;
-	color:#4bacf2;
+	color:#ffffff;
 	text-decoration:none;
 	width:200px;
 	margin:0 auto;
@@ -580,7 +580,7 @@ h1.arrow {
 	font-weight: bold;
 }
 h1.arrow span {
-    color: #0d93bf;
+    color: #ffffff;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -621,7 +621,7 @@ h1.arrow span {
 	color: #8C8C8C;
 }
 .color-bg h1.arrow span {
-    color: #FFE800;
+    color: #ffffff;
 }
 .color-bg h1.arrow {
     color: #4eaff5;
