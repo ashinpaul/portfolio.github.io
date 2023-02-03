@@ -305,7 +305,7 @@ table {
 }
 .dark-box {
 	background: #51badd;
-	-webkit-box-shadow: 0px 3px 0px 0px #E04343;
+	
 	-moz-box-shadow: 0px 3px 0px 0px #E04343;
 	box-shadow: 0px 3px 0px 0px #E04343;
 	padding:20px 0;
@@ -467,7 +467,7 @@ table {
 .hero {
 	background: url('../img/header-bg.jpg') right bottom no-repeat;
 	background-size: contain;
-	padding:110px 0 100px 0;
+	padding:200px 0 110px 0;
 	height:auto;
 	background-color: white;
 }
