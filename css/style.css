@@ -305,8 +305,8 @@ table {
 .dark-box {
 	background: #51badd;
 	
-	-moz-box-shadow: 0px 3px 0px 0px #E04343;
-	box-shadow: 0px 3px 0px 0px #E04343;
+	-moz-box-shadow: 0px 3px 0px 0px #c1d54b;
+	box-shadow: 0px 3px 0px 0px #badd3a;
 	padding:20px 0;
 }
 .dark-box:hover,.dark-box:focus {
@@ -590,11 +590,11 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #2496bd;
+	background: #55c7ed;
 }
 
 .color-bg a {
-    color: #0d93bf;
+    color: #5cc7ea;
 }
 .color-bg h6, .color-bg p {
     color: white;
