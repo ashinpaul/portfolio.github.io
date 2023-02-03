@@ -298,13 +298,13 @@ table {
 	padding:90px 0 100px
 }
 .dark-bg {
-	background:#44afd2;
+	background:#f3f5f8;
 }
 .light-bg {
 	background-color:#4eaff5;
 }
 .dark-box {
-	background: #F3F5F8;
+	background: #51badd;
 	-webkit-box-shadow: 0px 3px 0px 0px #E04343;
 	-moz-box-shadow: 0px 3px 0px 0px #E04343;
 	box-shadow: 0px 3px 0px 0px #E04343;
