@@ -90,7 +90,7 @@ audio,canvas,video {
 	*display:inline;
 	*zoom: 1;
 }
-* Remove excess height in iOS 5 devices. */
+/* Remove excess height in iOS 5 devices. */
 audio:not([controls]) {
 	display:none;
 	height:0;
@@ -839,7 +839,7 @@ img.grayscale:hover {
 	padding-top:75px;
 }
 .subscribe h1 {
-	color: #4eaff5FFF;
+	color: #4eaff5;
 	margin-bottom:40px;
 }
 .subscribe h1 span {
